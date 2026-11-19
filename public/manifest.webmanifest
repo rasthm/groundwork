@@ -1,0 +1,16 @@
+{
+  "name": "Groundwork",
+  "short_name": "Groundwork",
+  "description": "My plan, one week at a time.",
+  "start_url": "/#week",
+  "display": "standalone",
+  "background_color": "#07080a",
+  "theme_color": "#07080a",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ],
+  "shortcuts": [
+    { "name": "Add a task", "short_name": "Add task", "url": "/#add" },
+    { "name": "Record money", "short_name": "Money", "url": "/#money" }
+  ]
+}

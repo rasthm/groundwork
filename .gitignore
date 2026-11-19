@@ -1,0 +1,6 @@
+.wrangler/
+.dev.vars
+.secrets.txt
+node_modules/
+.secrets.json
+src/seed.mine.js
